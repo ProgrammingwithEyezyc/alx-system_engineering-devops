@@ -1,1 +1,1 @@
-This readme file will contain shell scripting basics
+This readme file contains everything about Shell
